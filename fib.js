@@ -1,9 +1,5 @@
 'use strict';
 
-/*
-0 1 1 2 3 5 8 13 21 34
-*/
-
 var fibArray = [];
 var firstNum = 0;
 var secondNum = 1;
